@@ -19,7 +19,7 @@ Name     : Dicky A. Setiawan
 Role     : Software Engineer
 Location : Indonesia
 Focus    : .NET / C# · Backend Systems · Enterprise Solutions
-Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
+Stack    : Primarily .NET ecosystem, polyglot in Go, Java, Python & PHP
 ```
 
 > *Specialized in building robust, scalable systems with .NET and C#.*
@@ -33,7 +33,7 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
 
 #### 🔧 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,go,java,php,js&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,java,go,py,php&theme=dark" alt="Languages" />
 
 #### ⚡ Frameworks & Libraries
 
@@ -41,13 +41,15 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
-
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48" />
 
 #### 🛠️ Tools & Platform
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,docker&theme=dark" alt="Tools" />
 
 </div>
 
@@ -57,18 +59,20 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
 
 <div align="center">
 
-<a href="https://github.com/dicky6ulin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true" alt="GitHub Stats" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+</picture>
 &nbsp;&nbsp;
-<a href="https://github.com/dicky6ulin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
 <a href="https://github.com/dicky6ulin">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dicky6ulin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dicky6ulin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
@@ -85,11 +89,13 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dicky-agus-setiawan/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dickyagussetiawan@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dicky6ulin)
+<a href="https://www.linkedin.com/in/dicky-agus-setiawan/">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:dickyagussetiawan@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
+</a>
 
 </div>
 
@@ -98,7 +104,7 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, PHP & JS
 <div align="center">
 
 ```
-"First, solve the problem. Then, write the code." — John Johnson
+✨ "Menuju Tak Terbatas dan Melampauinya" — Buzz Lightyear ✨
 ```
 
 </div>
