@@ -1,0 +1,23 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Update every 12 hours
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Summary Cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fono/github-profile-summary-cards@release
+        with:
+          USERNAME: dicky6ulin
+          BRANCH_NAME: main
+          UTC_OFFSET: 7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
