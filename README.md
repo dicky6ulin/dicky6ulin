@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Dicky+A.+Setiawan;Software+Engineer+%7C+Jakarta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Dicky+Agus+Setiawan;Software+Engineer+%7C+Jakarta)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +15,7 @@
 ## `> whoami`
 
 ```text
-Name     : Dicky A. Setiawan
+Name     : Dicky Agus Setiawan
 Role     : Software Engineer
 Location : Jakarta, Indonesia
 Focus    : .NET / C# · Backend Systems · Enterprise Solutions
@@ -33,19 +33,37 @@ Stack    : .NET & React.js specialist, polyglot in Java, Go, Python & PHP
 
 #### 🔧 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,js,java,go,py,php&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" title="C#" alt="C#" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" title="Java" alt="Java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" title="Go" alt="Go" />&nbsp;
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" title="Python" alt="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" title="PHP" alt="PHP" />
 
 #### ⚡ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,redux,nodejs,spring,laravel,vue,svelte&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" title=".NET" alt=".NET" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" title="React" alt="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" height="48" title="Redux" alt="Redux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" title="Node.js" alt="Node.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" title="Spring Boot" alt="Spring Boot" />&nbsp;
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" title="Laravel" alt="Laravel" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" title="Vue.js" alt="Vue.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="48" height="48" title="Svelte" alt="Svelte" />
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,oracle&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" width="48" height="48" title="SQL Server" alt="SQL Server" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" title="MySQL" alt="MySQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="48" height="48" title="Oracle" alt="Oracle" />
 
 #### 🛠️ Tools & Platform
 
-<img src="https://skillicons.dev/icons?i=git,docker,visualstudio,vscode,idea&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" title="Git" alt="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" title="Docker" alt="Docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" title="Visual Studio" alt="Visual Studio" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" title="VS Code" alt="VS Code" />&nbsp;
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
 
 </div>
 
