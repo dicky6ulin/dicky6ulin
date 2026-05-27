@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Dicky+A.+Setiawan;Software+Engineer+%7C+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Dicky+A.+Setiawan;Software+Engineer+%7C+Jakarta)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,9 +17,9 @@
 ```text
 Name     : Dicky A. Setiawan
 Role     : Software Engineer
-Location : Indonesia
+Location : Jakarta, Indonesia
 Focus    : .NET / C# · Backend Systems · Enterprise Solutions
-Stack    : Primarily .NET ecosystem, polyglot in Go, Java, Python & PHP
+Stack    : .NET & React.js specialist, polyglot in Java, Go, Python & PHP
 ```
 
 > *Specialized in building robust, scalable systems with .NET and C#.*
@@ -33,23 +33,19 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, Python & PHP
 
 #### 🔧 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,java,go,py,php&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,js,java,go,py,php&theme=dark" alt="Languages" />
 
 #### ⚡ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,nodejs,react,vue,svelte,redux&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,redux,nodejs,spring,laravel,vue,svelte&theme=dark" alt="Frameworks" />
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48" />
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,oracle&theme=dark" alt="Databases" />
 
 #### 🛠️ Tools & Platform
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,docker&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,docker,visualstudio,vscode,idea&theme=dark" alt="Tools" />
 
 </div>
 
@@ -59,15 +55,9 @@ Stack    : Primarily .NET ecosystem, polyglot in Go, Java, Python & PHP
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
-</picture>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
-</picture>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
 
 <br/><br/>
 
