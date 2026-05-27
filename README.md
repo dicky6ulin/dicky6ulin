@@ -53,9 +53,9 @@ Stack    : .NET & React.js specialist, polyglot in Java, Go, Python & PHP
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" width="48" height="48" title="SQL Server" alt="SQL Server" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" title="MySQL" alt="MySQL" />&nbsp;
-<img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="48" height="48" title="Oracle" alt="Oracle" />
+<a href="#" title="SQL Server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="40" /></a>&nbsp;
+<a href="#" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" /></a>&nbsp;
+<a href="#" title="Oracle"><img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="40" /></a>
 
 #### 🛠️ Tools & Platform
 
