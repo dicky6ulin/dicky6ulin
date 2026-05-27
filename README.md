@@ -55,9 +55,13 @@ Stack    : .NET & React.js specialist, polyglot in Java, Go, Python & PHP
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dicky6ulin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+<img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicky6ulin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
+<img height="180" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 
 <br/><br/>
 
